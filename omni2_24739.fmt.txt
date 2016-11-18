@@ -1,0 +1,15 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 YEAR                          I4        
+ 2 DOY                           I4        
+ 3 Hour                          I3        
+ 4 Scalar B, nT                  F6.1      
+ 5 BZ, nT (GSE)                  F6.1      x1
+ 6 BZ, nT (GSM)                  F6.1      
+ 7 RMS_BZ_GSE, nT                F6.1      
+ 8 SW Proton Density, N/cm^3     F6.1      m
+ 9 Dst-index, nT                 I6        
+
+This file was produced by SPDF OMNIWeb Plus service
